@@ -1,22 +1,18 @@
-Congratulations on completing your Afynix Digital Data Analytics Internship 🎉👏
-Since you **skipped Week 4 because it was optional**, I updated the README to reflect the actual journey. I also changed the wording from "will be added weekly" because the internship is already completed.
-
-Here is the new final version:
-
-````markdown
 # 📊 Data Analytics Internship – Afynix Digital
 
 This repository contains my work and projects completed during the **6-week Data Analytics Internship at Afynix Digital**.
 
-During this internship, I developed practical data analytics skills through real-world projects involving **data cleaning, exploratory data analysis, visualization, SQL analytics, and business insights generation**.
+During this internship, I developed practical data analytics skills through real-world projects involving **data cleaning, exploratory data analysis (EDA), data visualization, SQL analytics, and business insights generation**.
 
-## 🚀 Internship Roadmap
+---
 
-### 📌 Week 1 – Data Cleaning & Preparation
+# 🚀 Internship Roadmap
+
+## 📌 Week 1 – Data Cleaning & Preparation
 
 **Project:** Retail Sales Dataset Cleaning
 
-Completed tasks:
+### Completed Tasks:
 
 * Data inspection and understanding
 * Handling missing values and duplicates
@@ -24,75 +20,82 @@ Completed tasks:
 * Outlier detection
 * Exploratory Data Analysis (EDA)
 * Data preprocessing for analysis
+* Preparing clean datasets for further analysis
 
 ---
 
-### 📌 Week 2 – Data Visualization
+## 📌 Week 2 – Data Visualization
 
 **Project:** Superstore Sales Visualization
 
-Completed tasks:
+### Completed Tasks:
 
 * Sales and profit trend analysis
 * Category and sub-category comparison
 * Regional performance analysis
-* Profit vs Sales insights
-* Data storytelling using visualizations
+* Profit vs Sales relationship analysis
+* Creating meaningful visualizations
+* Data storytelling and insight generation
 
 ---
 
-### 📌 Week 3 – SQL for Analytics
+## 📌 Week 3 – SQL for Analytics
 
 **Project:** E-Commerce Database Analysis
 
-Completed tasks:
+### Completed Tasks:
 
 * SQL data exploration
-* Aggregations and GROUP BY operations
+* Writing analytical queries
+* Aggregations using `GROUP BY`
+* Filtering and sorting data
 * Table joins
 * Subqueries
 * Customer and product analysis
-* Generating business insights using SQL queries
+* Extracting business insights using SQL
 
 ---
 
-### 📌 Week 4 – Dashboarding (Optional Task)
+## 📌 Week 4 – Dashboarding (Optional Task)
 
 **Status:** Skipped (Optional Task)
 
-The dashboarding task was optional during the internship period, so I focused on completing the required internship projects and the final capstone analysis.
+The dashboarding task was an optional requirement during the internship. Based on the internship guidelines, one task from the first four tasks could be skipped.
+
+I focused on completing the required tasks and developing the final capstone analytics project.
 
 ---
 
-### 📌 Week 5 – Capstone Analytics Project
+## 📌 Week 5 – Capstone Analytics Project
 
 **Project:** Marketing Campaign Analysis
 
-Completed tasks:
+### Completed Tasks:
 
 * Data cleaning and preparation
 * Exploratory data analysis
 * Customer behavior analysis
 * Campaign performance evaluation
 * Data visualization
-* Business insights generation
-* Actionable recommendations
+* Identifying key business patterns
+* Generating actionable recommendations
+* Presenting data-driven insights
 
 ---
 
-### 📌 Week 6 – Project Completion & Submission
+## 📌 Week 6 – Project Completion & Submission
 
-Completed tasks:
+### Completed Tasks:
 
 * Final project review
 * Repository organization
-* Documentation updates
-* Project submission
-* Sharing internship experience and achievements
+* README documentation update
+* Internship task submission
+* Project presentation and sharing achievements
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 * Python
 * Pandas
@@ -107,41 +110,61 @@ Completed tasks:
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```text
 Data-Analytics-Internship-Afynix
 │
 ├── Week1_Data_Cleaning
+│   └── Retail Sales Dataset Cleaning
+│
 ├── Week2_Data_Visualization
+│   └── Superstore Sales Visualization
+│
 ├── Week3_SQL_Analytics
+│   └── E-Commerce Database Analysis
+│
 ├── Week5_Capstone_Project
+│   └── Marketing Campaign Analysis
+│
 └── README.md
-````
+```
 
 ---
 
-## 🎯 Key Skills Developed
+# 🎯 Key Skills Developed
 
-* Data Cleaning & Preprocessing
+* Data Cleaning & Data Preparation
 * Exploratory Data Analysis (EDA)
 * Data Visualization
 * SQL Analytics
 * Business Intelligence Concepts
-* Customer and Sales Analysis
+* Customer Segmentation Analysis
+* Sales and Marketing Analysis
 * Data Storytelling
-* Insight Generation
+* Business Insight Generation
+* Problem Solving with Data
 
 ---
 
-## 🏆 Internship Completion
+# 📊 Internship Projects Overview
 
-Successfully completed the **6-week Data Analytics Internship at Afynix Digital**, gaining hands-on experience in analyzing datasets, extracting insights, and solving real-world business problems using data analytics tools.
+| Week | Project | Main Focus |
+|------|---------|------------|
+| Week 1 | Retail Sales Dataset Cleaning | Data Cleaning & EDA |
+| Week 2 | Superstore Sales Visualization | Visualization & Insights |
+| Week 3 | E-Commerce Database Analysis | SQL Analytics |
+| Week 4 | Dashboarding | Optional Task (Skipped) |
+| Week 5 | Marketing Campaign Analysis | Capstone Project |
+
+---
+
+# 🏆 Internship Completion
+
+Successfully completed the **6-week Data Analytics Internship at Afynix Digital**, gaining hands-on experience in analyzing real-world datasets, extracting meaningful insights, and applying data analytics techniques to solve business problems.
+
+This internship strengthened my skills in **Python, SQL, Data Visualization, Exploratory Data Analysis, and Business Analytics**.
 
 ---
 
 ⭐ Thank you to **Afynix Digital** for providing this valuable learning opportunity and practical experience.
-
-```
-
-```
